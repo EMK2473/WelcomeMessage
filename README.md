@@ -19,7 +19,7 @@ Using terminal commands:
 
 - Clone or download the repository: 
 ```Java 
-- git clone https://github.com/your-username/WelcomeMessage.git 
+- git clone https://github.com/EMK2473/WelcomeMessage.git 
 ```
 
 - Navigate to the project directory: 
